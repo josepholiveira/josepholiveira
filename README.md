@@ -9,6 +9,6 @@ I’m a full stack developer that loves everything about coding. I currently wor
 
 - 🐶 I like to identify myself as a Shiba Inu.
 - ⚡ I was invited to be a mentor at the biggest Hackaton in Latin America, mentoring dozens of developers during the RS/XP 2019.
-- 👨🏻‍💻 I taught or helped dozens of thousands of people under the tecnologies I work daily with, such as ReactJS, NextJS, Styled-Components, Stitches, and so many more.
+- 👨🏻‍💻 I taught or helped dozens of thousands of developers under the tecnologies I work daily with, such as ReactJS, NextJS, Styled-Components, Stitches, and so many more.
 
 “Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” - Albert Einstein
